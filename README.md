@@ -1,6 +1,6 @@
-# GoBarber
+# Twitter Clone
 
-Sistema básico para agendamento de serviços de barbeiro.
+Clone do layout Twitter, utilizando html, css e flexbox;
 
 ## Getting Started
 
