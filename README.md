@@ -20,7 +20,7 @@ Essas instruções farão com que você tenha uma cópia do projeto em execuçã
 git clone https://github.com/Joaoh3326/flexbox.git
 ```
 
-![Alt Text](./twitter.PNG)
+![Alt Text](./Capturar.PNG)
 
 ## Built With
 
